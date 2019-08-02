@@ -16,15 +16,6 @@ eureka:
 management:
   endpoints:
     web:
-<<<<<<< HEAD
       exposure:
         include: refresh
 
-
-
-=======
-      exposure:
-        include: refresh
-
-       
->>>>>>> branch 'master' of https://github.com/zhanghang0803/zhanghang02.git
